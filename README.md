@@ -11,6 +11,7 @@ Yeah, as my subtitle says I am currently pretending to understand ML/AI and is a
 *   🧠  I'm learning Machine Learning and Deep Learning.
 *   🤝  I'm open to collaborating on anything interesting and learning about it.
 *   ⚡  I want to make J.A.R.V.I.S. like assistant since I was 14.
+
 <a href="https://www.github.com/Mshra" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Mshra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/callmeaaryan" target="_blank" rel="noreferrer"> <img
                   src="https://img.shields.io/twitter/follow/callmeaaryan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
