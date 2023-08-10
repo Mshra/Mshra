@@ -1,14 +1,14 @@
 Hi 👋 My name is Aaryan Mishra
 ==============================
 
-Pretending to understand ML/AI
+
 ------------------------------
 
-Yeah, as my subtitle says I am currently pretending to understand ML/AI and is also interested in finance, startups and business as well. A 3rd year undergrad in Delhi Technological University I spend my leisure time on watching movies, listening to music and make stupid jokes.
+I am currently learning and working on Machine Learning and Data Structures & Algorithms.
 
 *   🌍  I'm based in Delhi
 *   ✉️  You can contact me at [code.mshra@gmail.com](mailto:code.mshra@gmail.com)
-*   🧠  I'm learning Machine Learning and Deep Learning.
+*   🧠  I'm working on Machine Learning and learning Data Structures & Algorithms.
 *   🤝  I'm open to collaborating on anything interesting and learning about it.
 *   ⚡  I want to make J.A.R.V.I.S. like assistant since I was 14.
 
