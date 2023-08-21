@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💨 What I'm upto?
 🌱 I’m currently learning Machine Learning and Web Development<br>
 
 ## 💻 Socials
