@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **code.mshra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N8ksvq85YI1ZUFSuPsisB5s73XzgSKHU/view?usp=drive_link](https://drive.google.com/file/d/1N8ksvq85YI1ZUFSuPsisB5s73XzgSKHU/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1N8ksvq85YI1ZUFSuPsisB5s73XzgSKHU/view?usp=drive_link)
 
 - ⚡ Fun fact **I want to make J.A.R.V.I.S. since I was 14**
 
