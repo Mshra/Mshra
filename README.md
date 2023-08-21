@@ -1,8 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning and Web Development<br>
 
-![Tony Stark GIF](<iframe src="https://giphy.com/embed/XIFtEmJkAiR32" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tony-stark-XIFtEmJkAiR32">via GIPHY</a></p>)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-mishra-a2b205222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmeaaryan) 
 
