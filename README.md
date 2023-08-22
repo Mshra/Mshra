@@ -1,5 +1,5 @@
 # 💨 What I'm upto?
-🌱 I’m currently learning Machine Learning and Web Development<br>
+🌱 I’m currently learning Machine Learning and Data Structures & Algorithms<br>
 
 ## 💻 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-mishra-a2b205222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmeaaryan) 
