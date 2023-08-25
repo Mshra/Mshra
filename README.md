@@ -11,6 +11,7 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/Mshra/count.svg)
+
+
 
 ###
