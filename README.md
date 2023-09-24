@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Aaryan Mishra<br><br>-> I'm a 3rd year undergraduate student at Delhi Technological University, India.<br>-> I am currently learning Web Development.<br>-> I am also highly interested in ML/AI, Business and Finance.</p>
+<p align="left">I'm Aaryan Mishra<br><br>-> I'm a 3rd year undergraduate student at Delhi Technological University, India.<br>-> I am currently learning Web Development.<br>-> I am also highly interested in ML/AI, Business and Startups.</p>
 
 ###
 
