@@ -18,6 +18,4 @@
 
 <hr></hr>
 
-<div align="center">
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ojoa9046f4xcjfy7xa6wo87s0&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=ojoa9046f4xcjfy7xa6wo87s0&redirect=true)
-</div>
